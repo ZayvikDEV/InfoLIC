@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684144995 source:c:\users\9606819u\desktop\yey\odgad_licz\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
